@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "jigsaw_ponos_dlc:coagulated_pig_liquid"
+    },
+    {
+      "item": "jigsaw_ponos_dlc:coagulated_pig_liquid"
+    },
+    {
+      "item": "jigsaw_ponos_dlc:coagulated_pig_liquid"
+    },
+    {
+      "item": "jigsaw_ponos_dlc:coagulated_pig_liquid"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    },
+    {
+      "item": "jigsaw_ponos_dlc:coagulated_pig_liquid"
+    },
+    {
+      "item": "jigsaw_ponos_dlc:coagulated_pig_liquid"
+    },
+    {
+      "item": "jigsaw_ponos_dlc:coagulated_pig_liquid"
+    },
+    {
+      "item": "jigsaw_ponos_dlc:coagulated_pig_liquid"
+    }
+  ],
+  "result": {
+    "item": "jigsaw_ponos_dlc:lightorium_shards",
+    "count": 1
+  }
+}

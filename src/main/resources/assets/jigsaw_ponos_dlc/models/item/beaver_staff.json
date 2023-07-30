@@ -1,0 +1,7 @@
+{
+  "parent": "jigsaw_ponos_dlc:custom/beaver_staff",
+  "textures": {
+    "0": "jigsaw_ponos_dlc:blocks/beaver_staff",
+    "particle": "jigsaw_ponos_dlc:items/beaver_staff"
+  }
+}

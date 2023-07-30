@@ -1,0 +1,7 @@
+{
+  "parent": "jigsaw_ponos_dlc:custom/pukomet",
+  "textures": {
+    "0": "jigsaw_ponos_dlc:blocks/pukomet",
+    "particle": "jigsaw_ponos_dlc:items/pukomet"
+  }
+}

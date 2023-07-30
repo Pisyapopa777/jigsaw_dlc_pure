@@ -1,0 +1,132 @@
+{
+  "_fv": 39,
+  "_type": "livingentity",
+  "definition": {
+    "mobName": "Universe Pig",
+    "mobLabel": "",
+    "mobModelName": "ModelUniversePig",
+    "mobModelTexture": "universepig.png",
+    "mobModelGlowTexture": "universepig_1.png",
+    "solidBoundingBox": {
+      "fixedValue": false
+    },
+    "modelWidth": 3.5,
+    "modelHeight": 5.0,
+    "modelShadowSize": 0.5,
+    "mountedYOffset": 0.0,
+    "hasSpawnEgg": true,
+    "spawnEggBaseColor": {
+      "value": -16751002,
+      "falpha": 0.0
+    },
+    "spawnEggDotColor": {
+      "value": -52225,
+      "falpha": 0.0
+    },
+    "creativeTab": {
+      "value": "CUSTOM:JigsawPlus"
+    },
+    "isBoss": true,
+    "bossBarColor": "PINK",
+    "bossBarType": "NOTCHED_20",
+    "equipmentMainHand": {
+      "value": ""
+    },
+    "equipmentOffHand": {
+      "value": ""
+    },
+    "equipmentHelmet": {
+      "value": ""
+    },
+    "equipmentBody": {
+      "value": ""
+    },
+    "equipmentLeggings": {
+      "value": ""
+    },
+    "equipmentBoots": {
+      "value": ""
+    },
+    "mobBehaviourType": "Mob",
+    "mobCreatureType": "UNDEFINED",
+    "attackStrength": 10000,
+    "attackKnockback": 1000.0,
+    "knockbackResistance": 1000.0,
+    "movementSpeed": 0.5,
+    "armorBaseValue": 100.0,
+    "trackingRange": 100,
+    "followRange": 100,
+    "health": 1024,
+    "xpAmount": 32767,
+    "waterMob": false,
+    "flyingMob": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "disableCollisions": false,
+    "ridable": false,
+    "canControlForward": false,
+    "canControlStrafe": false,
+    "immuneToFire": true,
+    "immuneToArrows": false,
+    "immuneToFallDamage": true,
+    "immuneToCactus": true,
+    "immuneToDrowning": true,
+    "immuneToLightning": true,
+    "immuneToPotions": true,
+    "immuneToPlayer": false,
+    "immuneToExplosion": true,
+    "immuneToTrident": true,
+    "immuneToAnvil": true,
+    "immuneToWither": true,
+    "immuneToDragonBreath": true,
+    "mobDrop": {
+      "value": "CUSTOM:WandOfMassDestruction"
+    },
+    "livingSound": {
+      "value": "entity.enderdragon.ambient"
+    },
+    "hurtSound": {
+      "value": "entity.enderdragon.hurt"
+    },
+    "deathSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": "entity.ravager.step"
+    },
+    "whenMobDies": {
+      "name": "UniversePigEntityDies"
+    },
+    "whenThisMobKillsAnother": {
+      "name": "UniversePigThisEntityKillsAnotherOne"
+    },
+    "onMobTickUpdate": {
+      "name": "UniversePigOnEntityTickUpdate"
+    },
+    "hasAI": true,
+    "aiBase": "(none)",
+    "aixml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"aitasks_container\" deletable=\"false\" x=\"60\" y=\"55\"><next><block type=\"attack_on_collide\"><field name=\"speed\">1.2</field><field name=\"longmemory\">FALSE</field><field name=\"condition\">null,null</field><next><block type=\"attack_action\"><field name=\"callhelp\">TRUE</field><field name=\"condition\">null,null</field><next><block type=\"wander\"><field name=\"speed\">0.8</field><field name=\"condition\">null,null</field><next><block type=\"look_around\"><field name=\"condition\">null,null</field><next><block type=\"attack_entity\"><field name=\"insight\">FALSE</field><field name=\"nearby\">FALSE</field><field name=\"entity\">EntityPlayer</field><field name=\"condition\">null,null</field></block></next></block></next></block></next></block></next></block></next></block></xml>",
+    "breedable": false,
+    "tameable": false,
+    "breedTriggerItems": [],
+    "ranged": false,
+    "rangedAttackItem": {
+      "value": ""
+    },
+    "rangedItemType": "SledgeDebugLMB",
+    "rangedAttackInterval": 20,
+    "rangedAttackRadius": 100.0,
+    "spawnThisMob": true,
+    "doesDespawnWhenIdle": true,
+    "spawningCondition": {
+      "name": "UniversePigSpawnGayrule"
+    },
+    "spawningProbability": 8,
+    "mobSpawningType": "ambient",
+    "minNumberOfMobsPerGroup": 1,
+    "maxNumberOfMobsPerGroup": 1,
+    "restrictionBiomes": [],
+    "spawnInDungeons": true
+  }
+}

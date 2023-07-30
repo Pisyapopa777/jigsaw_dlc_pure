@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "jigsaw_ponos_dlc:cyber_pig_block",
+    "jigsaw_ponos_dlc:slimy_pig_block",
+    "jigsaw_ponos_dlc:pig_eye_block",
+    "jigsaw_ponos_dlc:chiseled_pig_block",
+    "jigsaw_ponos_dlc:pig_hog_block"
+  ]
+}

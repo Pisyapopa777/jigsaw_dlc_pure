@@ -1,0 +1,7 @@
+{
+  "parent": "jigsaw_ponos_dlc:custom/shishkin",
+  "textures": {
+    "0": "jigsaw_ponos_dlc:blocks/sssss",
+    "particle": "jigsaw_ponos_dlc:items/sssss"
+  }
+}

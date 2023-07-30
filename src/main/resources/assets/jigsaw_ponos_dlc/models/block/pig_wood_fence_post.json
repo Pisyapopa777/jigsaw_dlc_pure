@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "jigsaw_ponos_dlc:blocks/pig_planks",
+    "particle": "jigsaw_ponos_dlc:blocks/pig_planks"
+  }
+}

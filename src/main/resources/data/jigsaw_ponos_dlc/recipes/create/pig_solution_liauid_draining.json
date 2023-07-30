@@ -1,0 +1,17 @@
+{
+    "type": "create:emptying",
+    "ingredients": [
+      {
+        "item": "jigsaw_ponos_dlc:pig_solution_liquid_bucket"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:bucket"
+      },
+      {
+        "fluid": "jigsaw_ponos_dlc:pig_solution_liquid",
+        "amount": 1000
+      }
+    ]
+  }

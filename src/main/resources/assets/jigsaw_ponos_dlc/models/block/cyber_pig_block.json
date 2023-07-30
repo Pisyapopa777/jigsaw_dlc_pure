@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jigsaw_ponos_dlc:blocks/cyber_pig_block_top",
+    "up": "jigsaw_ponos_dlc:blocks/cyber_pig_block_top",
+    "north": "jigsaw_ponos_dlc:blocks/chiseled_cyber_pig_block_v2",
+    "east": "jigsaw_ponos_dlc:blocks/cyber_pig_block",
+    "south": "jigsaw_ponos_dlc:blocks/chiseled_cyber_pig_block_v2",
+    "west": "jigsaw_ponos_dlc:blocks/cyber_pig_block",
+    "particle": "jigsaw_ponos_dlc:blocks/cyber_pig_block_top"
+  }
+}

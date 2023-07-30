@@ -1,0 +1,30 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:ChiseledPigBlock"
+      },
+      {
+        "value": "CUSTOM:SlimyPigBlock"
+      },
+      {
+        "value": "CUSTOM:PigEyeBlock"
+      },
+      {
+        "value": "CUSTOM:CyberPigBlock"
+      },
+      {
+        "value": "CUSTOM:PigHogBlock"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "pigmassodds",
+    "namespace": "forge"
+  }
+}

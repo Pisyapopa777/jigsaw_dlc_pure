@@ -1,0 +1,7 @@
+{
+  "parent": "jigsaw_ponos_dlc:custom/oak_launcher",
+  "textures": {
+    "0": "jigsaw_ponos_dlc:blocks/oak_launcher",
+    "particle": "jigsaw_ponos_dlc:items/oak_launcher"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_block"
+  },
+  "addition": {
+    "item": "minecraft:beacon"
+  },
+  "result": {
+    "item": "jigsaw_ponos_dlc:expensive_component"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "jigsaw_ponos_dlc:extinguisher"
+    },
+    "title": {
+      "translate": "advancements.extinguisher_adv.title"
+    },
+    "description": {
+      "translate": "advancements.extinguisher_adv.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "extinguisher_adv": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "jigsaw_ponos_dlc:extinguisher"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 25
+  },
+  "parent": "jigsaw_ponos_dlc:firethrower_adv"
+}

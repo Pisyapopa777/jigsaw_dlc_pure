@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "jigsaw_ponos_dlc:blocks/pig_planks",
+    "top": "jigsaw_ponos_dlc:blocks/pig_planks",
+    "side": "jigsaw_ponos_dlc:blocks/pig_planks"
+  }
+}

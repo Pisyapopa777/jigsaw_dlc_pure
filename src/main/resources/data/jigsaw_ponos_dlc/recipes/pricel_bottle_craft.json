@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "jigsaw_ponos_dlc:beaver_staff_honey"
+    },
+    "1": {
+      "item": "jigsaw_ponos_dlc:beaver_staff"
+    },
+    "2": {
+      "item": "jigsaw_ponos_dlc:beaver_staff_honey"
+    },
+    "3": {
+      "item": "jigsaw_ponos_dlc:gorsh_cross"
+    },
+    "4": {
+      "item": "minecraft:glass_bottle"
+    },
+    "5": {
+      "item": "jigsaw_ponos_dlc:gorsh_cross"
+    },
+    "6": {
+      "item": "jigsaw_ponos_dlc:gorshcutlass"
+    },
+    "7": {
+      "item": "jigsaw_ponos_dlc:trusi_leggings"
+    },
+    "8": {
+      "item": "jigsaw_ponos_dlc:gorshcutlass"
+    }
+  },
+  "result": {
+    "item": "jigsaw_ponos_dlc:botle_o_pricel",
+    "count": 1
+  }
+}

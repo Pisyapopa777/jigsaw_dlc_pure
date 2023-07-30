@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "jigsaw_ponos_dlc:textures/screens/diamond_iron_block.png",
+    "icon": {
+      "item": "jigsaw_ponos_dlc:shitter"
+    },
+    "title": {
+      "translate": "advancements.start.title"
+    },
+    "description": {
+      "translate": "advancements.start.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "start": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

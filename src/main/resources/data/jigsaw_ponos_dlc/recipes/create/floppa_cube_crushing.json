@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+        "ingredients": [
+            {
+                "item": "jigsaw_ponos_dlc:tazik_chakram_floppa"
+            }
+        ],
+        "results": [
+            {
+                "item": "jigsaw_ponos_dlc:floppa_cube",
+                "count": 1
+            }
+        ],
+        "processingTime": 100
+    }

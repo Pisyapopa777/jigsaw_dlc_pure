@@ -1,0 +1,33 @@
+{
+  "_fv": 39,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "gorshcutlass",
+    "customModelName": "pricel_katana:default",
+    "name": "PotSight's cutlass",
+    "specialInfo": [
+      "From PotSight pack"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:JigsawPlus"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 2.0,
+    "enchantability": 50,
+    "damageVsEntity": 3.5,
+    "usageCount": 200,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.GOLD_NUGGET"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 39,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 1,
+    "texture": "pig_gun_2",
+    "customModelName": "cpw1:default",
+    "name": "CPW",
+    "specialInfo": [
+      "Controlled Pig Peapon"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:JigsawPlus"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:PigAmmo"
+    },
+    "shootConstantly": false,
+    "usageCount": 50,
+    "actionSound": {
+      "value": "block.crop.break"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "onRangedItemUsed": {
+      "name": "PiggunRangedItemUsed"
+    },
+    "bulletPower": 1.0,
+    "bulletDamage": 1.0,
+    "bulletKnockback": 1,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "Items.SPAWN_EGG#90"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "PiggunProjectileHitsBlock"
+    },
+    "onBulletHitsEntity": {
+      "name": "PiggunProjectileHitsBlock"
+    }
+  }
+}

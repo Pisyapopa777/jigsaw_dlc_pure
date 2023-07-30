@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "floppa",
+        "1": "tazik"
+      },
+      "name": "default"
+    }
+  }
+}

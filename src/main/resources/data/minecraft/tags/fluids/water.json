@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "jigsaw_ponos_dlc:beaver_mass",
+    "jigsaw_ponos_dlc:flowing_beaver_mass",
+    "jigsaw_ponos_dlc:fartgas",
+    "jigsaw_ponos_dlc:flowing_fartgas",
+    "jigsaw_ponos_dlc:pig_solution_fluid",
+    "jigsaw_ponos_dlc:flowing_pig_solution_fluid"
+  ]
+}

@@ -1,0 +1,20 @@
+  {
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "fluid": "jigsaw_ponos_dlc:beaver_mass",
+        "nbt": {},
+        "amount": 100
+      },
+      {
+        "item": "minecraft:porkchop"
+      }
+    ],
+    "results": [
+      {
+        "fluid": "jigsaw_ponos_dlc:pig_solution_fluid",
+        "amount": 50
+      }
+    ],
+    "heatRequirement": "heated"
+  }

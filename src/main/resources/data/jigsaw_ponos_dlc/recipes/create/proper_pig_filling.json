@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "jigsaw_ponos_dlc:proper"
+    },
+    {
+      "fluid": "jigsaw_ponos_dlc:pig_solution_fluid",
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "item": "jigsaw_ponos_dlc:proper_pig"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "jigsaw_ponos_dlc:floppa_cube"
+    },
+    "title": {
+      "translate": "advancements.floppa_adv.title"
+    },
+    "description": {
+      "translate": "advancements.floppa_adv.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "floppa_adv": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "jigsaw_ponos_dlc:floppa_cube"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "jigsaw_ponos_dlc:tazik_adv"
+}

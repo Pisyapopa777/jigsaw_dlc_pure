@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "jigsaw_ponos_dlc:shit_ingot_placeholder"
+    },
+    {
+      "item": "jigsaw_ponos_dlc:shit_ingot_placeholder"
+    },
+    {
+      "item": "jigsaw_ponos_dlc:shit_ingot_placeholder"
+    },
+    {
+      "item": "jigsaw_ponos_dlc:shit_ingot_placeholder"
+    },
+    {
+      "item": "jigsaw_ponos_dlc:shit_ingot_placeholder"
+    },
+    {
+      "item": "jigsaw_ponos_dlc:shit_ingot_placeholder"
+    },
+    {
+      "item": "jigsaw_ponos_dlc:shit_ingot_placeholder"
+    },
+    {
+      "item": "jigsaw_ponos_dlc:shit_ingot_placeholder"
+    },
+    {
+      "item": "jigsaw_ponos_dlc:shit_ingot_placeholder"
+    }
+  ],
+  "result": {
+    "item": "jigsaw_ponos_dlc:shit_ingor_block",
+    "count": 1
+  }
+}

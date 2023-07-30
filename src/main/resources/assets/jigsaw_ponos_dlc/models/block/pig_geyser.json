@@ -1,0 +1,8 @@
+{
+  "parent": "jigsaw_ponos_dlc:custom/pig_geyser",
+  "textures": {
+    "all": "jigsaw_ponos_dlc:blocks/pig_geyser",
+    "particle": "jigsaw_ponos_dlc:blocks/pig_geyser",
+    "0": "jigsaw_ponos_dlc:blocks/pig_geyser"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ExpensiveComponent"
+      },
+      {
+        "value": "CUSTOM:ExpensiveComponent"
+      },
+      {
+        "value": "CUSTOM:ExpensiveComponent"
+      },
+      {
+        "value": "Blocks.REDSTONE_BLOCK"
+      },
+      {
+        "value": "Blocks.GOLD_BLOCK"
+      },
+      {
+        "value": "Blocks.REDSTONE_BLOCK"
+      },
+      {
+        "value": "CUSTOM:ExpensiveComponent"
+      },
+      {
+        "value": "CUSTOM:ExpensiveComponent"
+      },
+      {
+        "value": "CUSTOM:ExpensiveComponent"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BrownBeardCutlass"
+    },
+    "name": "brown_beard_cutlass_craft",
+    "namespace": "mod"
+  }
+}

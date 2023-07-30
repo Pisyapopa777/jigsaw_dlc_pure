@@ -1,0 +1,73 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:glass_bottle"
+  },
+  "transitionalItem": {
+    "item": "jigsaw_ponos_dlc:proper_incomplete"
+  },
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "jigsaw_ponos_dlc:proper_incomplete"
+        },
+        {
+         "fluid": "jigsaw_ponos_dlc:pig_solution_liquid",
+         "amount": 100
+        }
+      ],
+      "results": [
+        {
+          "item": "jigsaw_ponos_dlc:proper_incomplete"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "jigsaw_ponos_dlc:proper_incomplete"
+        },
+        {
+          "item": "jigsaw:brown_soap"
+        }
+      ],
+      "results": [
+        {
+          "item": "jigsaw_ponos_dlc:proper_incomplete"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "jigsaw_ponos_dlc:proper_incomplete"
+        },
+        {
+          "item": "jigsaw:beaweeddust"
+        }
+      ],
+      "results": [
+        {
+          "item": "jigsaw_ponos_dlc:proper_incomplete"
+      }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "jigsaw_ponos_dlc:proper",
+      "chance": 0.8,
+      "count": 16
+    },
+    {
+      "item": "jigsaw_ponos_dlc:proper_bad",
+      "chance": 0.2,
+      "count": 16
+    }
+  ],
+  "loops": 1
+}

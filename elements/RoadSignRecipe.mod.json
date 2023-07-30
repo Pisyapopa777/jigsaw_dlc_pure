@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.BANNER#1"
+      },
+      {
+        "value": "CUSTOM:DiamondIronBlock"
+      },
+      {
+        "value": "Items.BANNER#1"
+      },
+      {
+        "value": "CUSTOM:SweetBread"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "CUSTOM:SweetBread"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RoadSignHeavyAxe"
+    },
+    "name": "road_sign_recipe",
+    "namespace": "mod"
+  }
+}

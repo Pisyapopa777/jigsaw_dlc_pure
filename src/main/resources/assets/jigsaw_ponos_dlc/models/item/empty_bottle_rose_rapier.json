@@ -1,0 +1,7 @@
+{
+  "parent": "jigsaw_ponos_dlc:custom/rose_bottle",
+  "textures": {
+    "2": "jigsaw_ponos_dlc:blocks/empty_bottle",
+    "particle": "jigsaw_ponos_dlc:items/empty_bottle"
+  }
+}

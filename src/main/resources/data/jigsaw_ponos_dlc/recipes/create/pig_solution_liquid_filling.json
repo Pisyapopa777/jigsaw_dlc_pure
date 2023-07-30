@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "jigsaw:iron_can"
+    },
+    {
+      "fluid": "jigsaw_ponos_dlc:pig_solution_fluid",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "jigsaw_ponos_dlc:pig_ammo"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "jigsaw_ponos_dlc:shit_stick_glaive"
+    }
+  ],
+  "result": {
+    "item": "jigsaw_ponos_dlc:sweet_bread",
+    "count": 1
+  }
+}

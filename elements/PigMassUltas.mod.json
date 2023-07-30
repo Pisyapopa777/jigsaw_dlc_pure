@@ -1,0 +1,30 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:PigEgg"
+      },
+      {
+        "value": "CUSTOM:PigLight"
+      },
+      {
+        "value": "CUSTOM:ExplosivePigBlock"
+      },
+      {
+        "value": "CUSTOM:PigGeyser"
+      },
+      {
+        "value": "CUSTOM:PigSapling"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "pig_mass_ultas",
+    "namespace": "forge"
+  }
+}

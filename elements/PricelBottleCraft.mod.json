@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BeaverStaffHoney"
+      },
+      {
+        "value": "CUSTOM:BeaverStaff"
+      },
+      {
+        "value": "CUSTOM:BeaverStaffHoney"
+      },
+      {
+        "value": "CUSTOM:GorshCross"
+      },
+      {
+        "value": "Items.GLASS_BOTTLE"
+      },
+      {
+        "value": "CUSTOM:GorshCross"
+      },
+      {
+        "value": "CUSTOM:Gorshcutlass"
+      },
+      {
+        "value": "CUSTOM:Trusi.legs"
+      },
+      {
+        "value": "CUSTOM:Gorshcutlass"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BotleOPricel"
+    },
+    "name": "pricel_bottle_craft",
+    "namespace": "mod"
+  }
+}

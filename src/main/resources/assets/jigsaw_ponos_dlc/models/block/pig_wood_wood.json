@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "jigsaw_ponos_dlc:blocks/pig_log",
+    "particle": "jigsaw_ponos_dlc:blocks/pig_log"
+  }
+}

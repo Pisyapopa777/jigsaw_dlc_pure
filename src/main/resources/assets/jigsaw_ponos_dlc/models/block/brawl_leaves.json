@@ -1,0 +1,7 @@
+{
+  "parent": "block/leaves",
+  "textures": {
+    "all": "jigsaw_ponos_dlc:blocks/dbg_txt",
+    "particle": "jigsaw_ponos_dlc:blocks/dbg_txt"
+  }
+}

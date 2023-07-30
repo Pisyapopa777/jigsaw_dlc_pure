@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "jigsaw_ponos_dlc:expensive_component"
+    },
+    {
+      "item": "jigsaw_ponos_dlc:expensive_component"
+    },
+    {
+      "item": "jigsaw_ponos_dlc:expensive_component"
+    },
+    {
+      "item": "minecraft:redstone_block"
+    },
+    {
+      "item": "minecraft:gold_block"
+    },
+    {
+      "item": "minecraft:redstone_block"
+    },
+    {
+      "item": "jigsaw_ponos_dlc:expensive_component"
+    },
+    {
+      "item": "jigsaw_ponos_dlc:expensive_component"
+    },
+    {
+      "item": "jigsaw_ponos_dlc:expensive_component"
+    }
+  ],
+  "result": {
+    "item": "jigsaw_ponos_dlc:brown_beard_cutlass",
+    "count": 1
+  }
+}

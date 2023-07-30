@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "jigsaw_ponos_dlc:beaver_staff"
+    },
+    {
+      "fluidTag": "forge:honey",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "jigsaw_ponos_dlc:beaver_staff_honey"
+    }
+  ]
+}

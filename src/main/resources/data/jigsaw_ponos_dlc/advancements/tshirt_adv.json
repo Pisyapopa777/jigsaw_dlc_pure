@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "jigsaw_ponos_dlc:alcoholic_chestplate"
+    },
+    "title": {
+      "translate": "advancements.tshirt_adv.title"
+    },
+    "description": {
+      "translate": "advancements.tshirt_adv.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "tshirt_adv": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "jigsaw_ponos_dlc:alcoholic_chestplate"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "jigsaw_ponos_dlc:bobrovyha_adv"
+}

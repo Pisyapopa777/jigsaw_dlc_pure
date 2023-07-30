@@ -1,0 +1,24 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Entities",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [
+      {
+        "value": "CUSTOM:ZombieBeaver"
+      },
+      {
+        "value": "CUSTOM:BeaverSpider"
+      },
+      {
+        "value": "CUSTOM:Stonebeaver"
+      }
+    ],
+    "biomes": [],
+    "name": "beaverzombies2",
+    "namespace": "jigsaw_ponos_dlc"
+  }
+}

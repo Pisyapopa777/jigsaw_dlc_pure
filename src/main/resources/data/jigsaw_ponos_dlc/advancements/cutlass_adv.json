@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "jigsaw_ponos_dlc:pirate_cutlass"
+    },
+    "title": {
+      "translate": "advancements.cutlass_adv.title"
+    },
+    "description": {
+      "translate": "advancements.cutlass_adv.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "cutlass_adv": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "jigsaw_ponos_dlc:pirate_cutlass"
+            ],
+            "count": {
+              "min": 1,
+              "max": 2
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 3
+  },
+  "parent": "jigsaw_ponos_dlc:start"
+}

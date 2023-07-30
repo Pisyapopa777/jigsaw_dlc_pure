@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "autospoon3d"
+      },
+      "name": "default"
+    }
+  }
+}

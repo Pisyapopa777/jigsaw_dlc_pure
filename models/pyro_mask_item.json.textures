@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "pyro_mask_layer_1"
+      },
+      "name": "default"
+    }
+  }
+}

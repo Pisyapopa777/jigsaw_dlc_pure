@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "jigsaw_ponos_dlc:pig_solution_fluid_bucket"
+    },
+    "title": {
+      "translate": "advancements.pig_solution_adv.title"
+    },
+    "description": {
+      "translate": "advancements.pig_solution_adv.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "pig_solution_adv": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "jigsaw_ponos_dlc:pig_solution_fluid_bucket"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 25
+  },
+  "parent": "jigsaw_ponos_dlc:beaver_mass_adv"
+}

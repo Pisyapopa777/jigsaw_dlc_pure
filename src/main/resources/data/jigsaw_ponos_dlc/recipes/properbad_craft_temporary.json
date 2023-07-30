@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "jigsaw_ponos_dlc:proper"
+    },
+    "1": {
+      "item": "minecraft:brown_dye"
+    }
+  },
+  "result": {
+    "item": "jigsaw_ponos_dlc:proper_bad",
+    "count": 1
+  }
+}

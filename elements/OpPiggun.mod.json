@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "op_pig_gun",
+    "customModelName": "Normal",
+    "name": "Pig gun (admin)",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:JigsawPlus"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": false,
+    "usageCount": 512,
+    "actionSound": {
+      "value": "block.crop.break"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "onRangedItemUsed": {
+      "name": "OpPiggunRangedItemUsed"
+    },
+    "bulletPower": 1.0,
+    "bulletDamage": 0.0,
+    "bulletKnockback": 1,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "Items.SPAWN_EGG#90"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "PiggunProjectileHitsBlock"
+    },
+    "onBulletHitsEntity": {
+      "name": "PiggunProjectileHitsBlock"
+    }
+  }
+}

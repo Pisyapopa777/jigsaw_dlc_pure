@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jigsaw_ponos_dlc:blocks/pig_explosive_block",
+    "up": "jigsaw_ponos_dlc:blocks/pig_explosive_block",
+    "north": "jigsaw_ponos_dlc:blocks/pig_explosive_block",
+    "east": "jigsaw_ponos_dlc:blocks/pig_explosive_block",
+    "south": "jigsaw_ponos_dlc:blocks/pig_explosive_block",
+    "west": "jigsaw_ponos_dlc:blocks/pig_explosive_block",
+    "particle": "jigsaw_ponos_dlc:blocks/pig_explosive_block"
+  }
+}

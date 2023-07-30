@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "jigsaw:beaweednutconsumable"
+    },
+    "4": {
+      "item": "minecraft:stripped_oak_log"
+    },
+    "6": {
+      "item": "minecraft:stripped_oak_log"
+    }
+  },
+  "result": {
+    "item": "jigsaw_ponos_dlc:beaver_staff",
+    "count": 1
+  }
+}

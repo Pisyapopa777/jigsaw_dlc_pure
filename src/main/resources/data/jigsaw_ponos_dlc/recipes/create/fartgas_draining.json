@@ -1,0 +1,17 @@
+{
+    "type": "create:emptying",
+    "ingredients": [
+      {
+        "item": "jigsaw_ponos_dlc:fartgas_bucket"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:bucket"
+      },
+      {
+        "fluid": "jigsaw_ponos_dlc:fartgas",
+        "amount": 1000
+      }
+    ]
+  }

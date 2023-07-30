@@ -1,0 +1,45 @@
+{
+  "_fv": 39,
+  "_type": "item",
+  "definition": {
+    "renderType": 1,
+    "texture": "properio",
+    "customModelName": "proper:default",
+    "name": "mr.Proper",
+    "rarity": "EPIC",
+    "creativeTab": {
+      "value": "CUSTOM:JigsawPlus"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 32,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": true,
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onFinishUsingItem": {
+      "name": "ProperPlayerFinishesUsingItem"
+    },
+    "isFood": true,
+    "nutritionalValue": -1000,
+    "saturation": -100.0,
+    "eatResultItem": {
+      "value": ""
+    },
+    "isMeat": true,
+    "isAlwaysEdible": true,
+    "animation": "eat"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "create:emptying",
+    "ingredients": [
+      {
+        "item": "jigsaw_ponos_dlc:beaver_mass_bucket"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:bucket"
+      },
+      {
+        "fluid": "jigsaw_ponos_dlc:beaver_mass",
+        "amount": 1000
+      }
+    ]
+  }

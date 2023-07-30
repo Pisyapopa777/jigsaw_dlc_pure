@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "beaver_staff"
+      },
+      "name": "default"
+    }
+  }
+}

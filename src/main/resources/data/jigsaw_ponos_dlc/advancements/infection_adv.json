@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "jigsaw_ponos_dlc:chiseled_pig_block"
+    },
+    "title": {
+      "translate": "advancements.infection_adv.title"
+    },
+    "description": {
+      "translate": "advancements.infection_adv.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "infection_adv": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "parent": "jigsaw_ponos_dlc:pig_solution_adv"
+}

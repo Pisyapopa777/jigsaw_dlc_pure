@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:beavercollar"
+    },
+    "1": {
+      "tag": "forge:beavercollar"
+    },
+    "2": {
+      "tag": "forge:beavercollar"
+    },
+    "3": {
+      "tag": "forge:beavercollar"
+    },
+    "4": {
+      "item": "minecraft:diamond_leggings"
+    },
+    "5": {
+      "tag": "forge:beavercollar"
+    },
+    "6": {
+      "tag": "forge:beavercollar"
+    },
+    "7": {
+      "tag": "forge:beavercollar"
+    },
+    "8": {
+      "tag": "forge:beavercollar"
+    }
+  },
+  "result": {
+    "item": "jigsaw_ponos_dlc:advanced_beaver_collar",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "jigsaw_ponos_dlc:custom/tazik_chakram",
+  "textures": {
+    "0": "jigsaw_ponos_dlc:blocks/tazik",
+    "particle": "jigsaw_ponos_dlc:items/tazik"
+  }
+}

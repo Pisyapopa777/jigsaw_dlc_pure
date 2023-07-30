@@ -1,0 +1,31 @@
+{
+  "_fv": 39,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "ershik",
+    "customModelName": "ershik:default",
+    "name": "Ershik",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:JigsawPlus"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 2,
+    "efficiency": 7.0,
+    "attackSpeed": 2.0,
+    "enchantability": 50,
+    "damageVsEntity": 7.0,
+    "usageCount": 256,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.STRING"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

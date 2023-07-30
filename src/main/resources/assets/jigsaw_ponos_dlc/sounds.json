@@ -1,0 +1,193 @@
+{
+  "perdezhing": {
+    "category": "neutral",
+    "subtitle": "subtitles.perdezhing",
+    "sounds": [
+      {
+        "name": "jigsaw_ponos_dlc:perdezh",
+        "stream": false
+      }
+    ]
+  },
+  "dristanul": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "jigsaw_ponos_dlc:drist",
+        "stream": false
+      }
+    ]
+  },
+  "beaver_ambient": {
+    "category": "hostile",
+    "subtitle": "subtitles.beaver_ambient",
+    "sounds": [
+      {
+        "name": "jigsaw_ponos_dlc:beaver_ambient",
+        "stream": false
+      }
+    ]
+  },
+  "beaver_chop": {
+    "category": "hostile",
+    "subtitle": "subtitles.beaver_chop",
+    "sounds": [
+      {
+        "name": "jigsaw_ponos_dlc:beaver_chop",
+        "stream": false
+      }
+    ]
+  },
+  "totemulta1": {
+    "category": "player",
+    "subtitle": "subtitles.totemulta1",
+    "sounds": [
+      {
+        "name": "jigsaw_ponos_dlc:peitevoduizkala",
+        "stream": false
+      }
+    ]
+  },
+  "totemulta2": {
+    "category": "player",
+    "subtitle": "subtitles.totemulta2",
+    "sounds": [
+      {
+        "name": "jigsaw_ponos_dlc:immxrtxl_playa_-_tyyvyvaler_durden_1",
+        "stream": false
+      }
+    ]
+  },
+  "floppa_shoot": {
+    "category": "player",
+    "subtitle": "subtitles.floppa_shoot",
+    "sounds": [
+      {
+        "name": "jigsaw_ponos_dlc:pelmeni",
+        "stream": false
+      }
+    ]
+  },
+  "beaverzombie_ambient": {
+    "category": "hostile",
+    "subtitle": "subtitles.beaverzombie_ambient",
+    "sounds": [
+      {
+        "name": "jigsaw_ponos_dlc:beaverzombie_ambient_1",
+        "stream": false
+      },
+      {
+        "name": "jigsaw_ponos_dlc:beaverzombie_ambient_2",
+        "stream": false
+      },
+      {
+        "name": "jigsaw_ponos_dlc:beaverzombie_ambient_3",
+        "stream": false
+      },
+      {
+        "name": "jigsaw_ponos_dlc:beaverzombie_ambient_4",
+        "stream": false
+      },
+      {
+        "name": "jigsaw_ponos_dlc:beaverzombie_ambient_5",
+        "stream": false
+      }
+    ]
+  },
+  "pigburp": {
+    "category": "weather",
+    "subtitle": "subtitles.pigburp",
+    "sounds": [
+      {
+        "name": "jigsaw_ponos_dlc:pigburp",
+        "stream": false
+      }
+    ]
+  },
+  "mosselephant_warn": {
+    "category": "neutral",
+    "subtitle": "subtitles.mosselephant_warn",
+    "sounds": [
+      {
+        "name": "jigsaw_ponos_dlc:mosselephant_warn",
+        "stream": false
+      }
+    ]
+  },
+  "teapot_ambient": {
+    "category": "block",
+    "subtitle": "subtitles.teapot_ambient",
+    "sounds": [
+      {
+        "name": "jigsaw_ponos_dlc:ancient-game-whistle-or-tea-kettle-chime-1_qrpumaua",
+        "stream": false
+      }
+    ]
+  },
+  "spit_helmet": {
+    "category": "player",
+    "subtitle": "subtitles.spit_helmet",
+    "sounds": [
+      {
+        "name": "jigsaw_ponos_dlc:spit",
+        "stream": false
+      }
+    ]
+  },
+  "shoot": {
+    "category": "player",
+    "subtitle": "subtitles.shoot",
+    "sounds": [
+      {
+        "name": "jigsaw_ponos_dlc:shoot_1",
+        "stream": false
+      },
+      {
+        "name": "jigsaw_ponos_dlc:shoot_2",
+        "stream": false
+      },
+      {
+        "name": "jigsaw_ponos_dlc:shoot_3",
+        "stream": false
+      },
+      {
+        "name": "jigsaw_ponos_dlc:shoot_4",
+        "stream": false
+      },
+      {
+        "name": "jigsaw_ponos_dlc:shoot-_6_",
+        "stream": false
+      },
+      {
+        "name": "jigsaw_ponos_dlc:shoot-_7_",
+        "stream": false
+      },
+      {
+        "name": "jigsaw_ponos_dlc:shoot-_8_",
+        "stream": false
+      },
+      {
+        "name": "jigsaw_ponos_dlc:shoot-_9_",
+        "stream": false
+      },
+      {
+        "name": "jigsaw_ponos_dlc:shoot-_10_",
+        "stream": false
+      },
+      {
+        "name": "jigsaw_ponos_dlc:shoot-_11_",
+        "stream": false
+      }
+    ]
+  },
+  "shitty_reload": {
+    "category": "player",
+    "subtitle": "subtitles.shitty_reload",
+    "sounds": [
+      {
+        "name": "jigsaw_ponos_dlc:recharge",
+        "stream": false
+      }
+    ]
+  }
+}

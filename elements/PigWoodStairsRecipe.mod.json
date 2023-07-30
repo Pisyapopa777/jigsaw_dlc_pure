@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PigWoodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PigWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:PigWoodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PigWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:PigWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:PigWoodPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PigWoodStairs"
+    },
+    "name": "pig_wood_stairs_recipe",
+    "namespace": "mod"
+  }
+}

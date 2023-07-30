@@ -1,0 +1,36 @@
+{
+  "_fv": 39,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "sledgehammer",
+    "customModelName": "sledgehammer:default",
+    "name": "Sledgehammer",
+    "specialInfo": [
+      "RMB for lightning",
+      "Sneak+RMB to throw"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:JigsawPlus"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 3,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 15.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "SexySledgehammerRightclicked"
+    },
+    "onRightClickedOnBlock": {
+      "name": "SexySledgehammerRightclicked"
+    }
+  }
+}

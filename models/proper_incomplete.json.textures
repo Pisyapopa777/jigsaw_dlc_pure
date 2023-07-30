@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "proper_incomplete_v2"
+      },
+      "name": "default"
+    }
+  }
+}

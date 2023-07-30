@@ -1,0 +1,23 @@
+{
+  "_fv": 39,
+  "_type": "potioneffect",
+  "definition": {
+    "effectName": "Infected",
+    "icon": "pig_eye_block.png",
+    "color": {
+      "value": -26215,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": true,
+    "isBenefitical": false,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onActiveTick": {
+      "name": "InfectedOnEffectActiveTick"
+    },
+    "onExpired": {
+      "name": "InfectedEffectExpires"
+    }
+  }
+}

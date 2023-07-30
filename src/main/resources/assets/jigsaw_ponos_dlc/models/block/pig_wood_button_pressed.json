@@ -1,0 +1,6 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "texture": "jigsaw_ponos_dlc:blocks/pig_planks"
+  }
+}

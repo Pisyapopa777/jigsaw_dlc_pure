@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DiamondIronBlock"
+      },
+      {
+        "value": "Blocks.YELLOW_SHULKER_BOX"
+      },
+      {
+        "value": "CUSTOM:DiamondIronBlock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.NETHERITE_SCRAP"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.NETHERITE_SCRAP"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SexySledgehammer"
+    },
+    "name": "sexy_sledge_craft",
+    "namespace": "mod"
+  }
+}

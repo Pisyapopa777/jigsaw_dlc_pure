@@ -1,0 +1,10 @@
+{
+  "parent": "jigsaw_ponos_dlc:custom/vacuumcleaner",
+  "textures": {
+    "0": "jigsaw_ponos_dlc:blocks/texture_nasral",
+    "1": "jigsaw_ponos_dlc:blocks/barrel_bottom",
+    "2": "jigsaw_ponos_dlc:blocks/barrel_side",
+    "3": "jigsaw_ponos_dlc:blocks/barrel_top",
+    "particle": "jigsaw_ponos_dlc:items/packed_mud"
+  }
+}

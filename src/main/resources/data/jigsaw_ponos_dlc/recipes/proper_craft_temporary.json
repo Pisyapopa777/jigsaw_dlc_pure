@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:raw_gold_block"
+    },
+    "1": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "result": {
+    "item": "jigsaw_ponos_dlc:proper",
+    "count": 64
+  }
+}

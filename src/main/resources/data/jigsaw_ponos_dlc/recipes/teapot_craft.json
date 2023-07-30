@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stick"
+    },
+    "1": {
+      "item": "minecraft:stone_stairs"
+    },
+    "3": {
+      "item": "minecraft:white_terracotta"
+    },
+    "4": {
+      "item": "minecraft:white_terracotta"
+    },
+    "5": {
+      "item": "minecraft:stone_brick_wall"
+    },
+    "6": {
+      "item": "minecraft:white_terracotta"
+    },
+    "7": {
+      "item": "minecraft:white_terracotta"
+    },
+    "8": {
+      "item": "minecraft:clay_ball"
+    }
+  },
+  "result": {
+    "item": "jigsaw_ponos_dlc:teapot_mace",
+    "count": 1
+  }
+}

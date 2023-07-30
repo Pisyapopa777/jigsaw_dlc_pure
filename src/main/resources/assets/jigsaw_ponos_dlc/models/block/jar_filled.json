@@ -1,0 +1,8 @@
+{
+  "parent": "jigsaw_ponos_dlc:custom/banka_withwater",
+  "textures": {
+    "all": "jigsaw_ponos_dlc:blocks/glass",
+    "particle": "jigsaw_ponos_dlc:blocks/glass",
+    "0": "jigsaw_ponos_dlc:blocks/banka"
+  }
+}

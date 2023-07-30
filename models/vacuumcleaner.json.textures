@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "texture_nasral",
+        "1": "barrel_bottom",
+        "2": "barrel_side",
+        "3": "barrel_top"
+      },
+      "name": "default"
+    }
+  }
+}

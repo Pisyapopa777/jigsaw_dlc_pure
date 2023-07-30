@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PerdezhInBottle"
+      },
+      {
+        "value": "CUSTOM:PushkaPerdushka"
+      },
+      {
+        "value": "CUSTOM:PerdezhInBottle"
+      },
+      {
+        "value": "CUSTOM:PerdezhInBottle"
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "CUSTOM:PerdezhInBottle"
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "Blocks.AMETHYST_BLOCK"
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FartTurret"
+    },
+    "name": "fart_turret_craft",
+    "namespace": "mod"
+  }
+}

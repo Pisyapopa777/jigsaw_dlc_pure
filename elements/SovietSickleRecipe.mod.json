@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ShitIngorBlock"
+      },
+      {
+        "value": "CUSTOM:ShitIngotPlaceholder"
+      },
+      {
+        "value": "CUSTOM:ShitIngorBlock"
+      },
+      {
+        "value": "CUSTOM:ShitIngotPlaceholder"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ShitIngotPlaceholder"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SovietSickle"
+    },
+    "name": "soviet_sickle_recipe",
+    "namespace": "mod"
+  }
+}

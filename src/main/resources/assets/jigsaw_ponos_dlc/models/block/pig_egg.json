@@ -1,0 +1,7 @@
+{
+  "parent": "jigsaw_ponos_dlc:custom/pig_ball",
+  "textures": {
+    "all": "jigsaw_ponos_dlc:blocks/pig_egg",
+    "particle": "jigsaw_ponos_dlc:blocks/pig_egg"
+  }
+}

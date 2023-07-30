@@ -1,0 +1,7 @@
+{
+  "parent": "jigsaw_ponos_dlc:custom/extinguisher",
+  "textures": {
+    "0": "jigsaw_ponos_dlc:blocks/extinguisher",
+    "particle": "jigsaw_ponos_dlc:items/extinguisher"
+  }
+}

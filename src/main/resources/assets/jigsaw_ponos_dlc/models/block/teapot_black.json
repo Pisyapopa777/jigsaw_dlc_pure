@@ -1,0 +1,8 @@
+{
+  "parent": "jigsaw_ponos_dlc:custom/teapot_black",
+  "textures": {
+    "all": "jigsaw_ponos_dlc:blocks/black_kettle",
+    "particle": "jigsaw_ponos_dlc:blocks/black_kettle",
+    "1": "jigsaw_ponos_dlc:blocks/black_kettle"
+  }
+}

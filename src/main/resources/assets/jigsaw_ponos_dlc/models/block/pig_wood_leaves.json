@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jigsaw_ponos_dlc:blocks/pig_leaves",
+    "up": "jigsaw_ponos_dlc:blocks/pig_leaves",
+    "north": "jigsaw_ponos_dlc:blocks/pig_leaves",
+    "east": "jigsaw_ponos_dlc:blocks/pig_leaves",
+    "south": "jigsaw_ponos_dlc:blocks/pig_leaves",
+    "west": "jigsaw_ponos_dlc:blocks/pig_leaves",
+    "particle": "jigsaw_ponos_dlc:blocks/pig_leaves"
+  }
+}

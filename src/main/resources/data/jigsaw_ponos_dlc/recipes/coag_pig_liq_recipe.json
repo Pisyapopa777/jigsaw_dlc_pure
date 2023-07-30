@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "jigsaw_ponos_dlc:pig_liquid"
+  },
+  "result": "jigsaw_ponos_dlc:coagulated_pig_liquid"
+}

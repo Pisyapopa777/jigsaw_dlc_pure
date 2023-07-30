@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "jigsaw_ponos_dlc:lightorium_shards"
+    },
+    {
+      "item": "jigsaw_ponos_dlc:lightorium_shards"
+    },
+    {
+      "item": "jigsaw_ponos_dlc:lightorium_shards"
+    },
+    {
+      "item": "jigsaw_ponos_dlc:lightorium_shards"
+    }
+  ],
+  "result": {
+    "item": "jigsaw_ponos_dlc:lightorium",
+    "count": 1
+  }
+}

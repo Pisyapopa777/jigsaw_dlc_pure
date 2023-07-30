@@ -1,0 +1,7 @@
+{
+  "parent": "jigsaw_ponos_dlc:custom/bottle_o_pricel",
+  "textures": {
+    "3": "jigsaw_ponos_dlc:blocks/bottle_o_pricel",
+    "particle": "jigsaw_ponos_dlc:items/bottle_o_pricel"
+  }
+}

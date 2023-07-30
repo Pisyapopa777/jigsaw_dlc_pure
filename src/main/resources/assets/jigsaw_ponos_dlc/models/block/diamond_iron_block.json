@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jigsaw_ponos_dlc:blocks/diamond_iron",
+    "up": "jigsaw_ponos_dlc:blocks/diamond_iron",
+    "north": "jigsaw_ponos_dlc:blocks/diamond_iron",
+    "east": "jigsaw_ponos_dlc:blocks/diamond_iron",
+    "south": "jigsaw_ponos_dlc:blocks/diamond_iron",
+    "west": "jigsaw_ponos_dlc:blocks/diamond_iron",
+    "particle": "jigsaw_ponos_dlc:blocks/diamond_iron"
+  }
+}

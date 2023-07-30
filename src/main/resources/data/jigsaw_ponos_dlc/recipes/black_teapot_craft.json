@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:black_dye"
+    },
+    "1": {
+      "item": "jigsaw_ponos_dlc:teapot_mace"
+    }
+  },
+  "result": {
+    "item": "jigsaw_ponos_dlc:teapot_black",
+    "count": 1
+  }
+}

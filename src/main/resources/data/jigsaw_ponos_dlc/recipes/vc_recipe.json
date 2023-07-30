@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "jigsaw_ponos_dlc:cyber_pig_block"
+    },
+    "1": {
+      "item": "jigsaw_ponos_dlc:pig_light"
+    },
+    "2": {
+      "item": "jigsaw_ponos_dlc:chiseled_pig_block"
+    },
+    "3": {
+      "item": "minecraft:sticky_piston"
+    },
+    "4": {
+      "item": "minecraft:barrel"
+    },
+    "5": {
+      "item": "minecraft:dispenser"
+    },
+    "6": {
+      "item": "jigsaw_ponos_dlc:pig_block"
+    },
+    "7": {
+      "item": "minecraft:lever"
+    },
+    "8": {
+      "item": "jigsaw_ponos_dlc:pig_block"
+    }
+  },
+  "result": {
+    "item": "jigsaw_ponos_dlc:vacuum_cleaner",
+    "count": 1
+  }
+}

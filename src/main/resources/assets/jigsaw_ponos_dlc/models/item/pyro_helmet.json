@@ -1,0 +1,7 @@
+{
+  "parent": "jigsaw_ponos_dlc:custom/pyro_mask_item",
+  "textures": {
+    "0": "jigsaw_ponos_dlc:blocks/pyro_mask_layer_1",
+    "particle": "jigsaw_ponos_dlc:items/pyromask_placeholder"
+  }
+}

@@ -1,0 +1,37 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"0": "bone_halberd",
+		"particle": "bone_halberd"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 55],
+			"translation": [0, 30, -6],
+			"scale": [4, 4, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -55],
+			"translation": [0, 30, -6],
+			"scale": [4, 4, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [45, 99, 0],
+			"translation": [2.5, 5, -1.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-45, 90, 0],
+			"translation": [4, 6, -4.5]
+		},
+		"ground": {
+			"translation": [0, 6, 0],
+			"scale": [1.2, 1.2, 0.8]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 0.5, -2],
+			"scale": [1.5, 1.5, 1]
+		}
+	}
+}

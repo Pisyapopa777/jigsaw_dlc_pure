@@ -1,0 +1,7 @@
+{
+  "parent": "jigsaw_ponos_dlc:custom/proper",
+  "textures": {
+    "0": "jigsaw_ponos_dlc:blocks/properio",
+    "particle": "jigsaw_ponos_dlc:items/properio"
+  }
+}

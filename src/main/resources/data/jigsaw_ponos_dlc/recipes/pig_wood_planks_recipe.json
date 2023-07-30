@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:pigwood_log"
+    }
+  ],
+  "result": {
+    "item": "jigsaw_ponos_dlc:pig_wood_planks",
+    "count": 4
+  }
+}

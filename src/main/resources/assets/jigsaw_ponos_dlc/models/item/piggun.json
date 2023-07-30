@@ -1,0 +1,7 @@
+{
+  "parent": "jigsaw_ponos_dlc:custom/cpw1",
+  "textures": {
+    "0": "jigsaw_ponos_dlc:blocks/cpw1",
+    "particle": "jigsaw_ponos_dlc:items/pig_gun_2"
+  }
+}

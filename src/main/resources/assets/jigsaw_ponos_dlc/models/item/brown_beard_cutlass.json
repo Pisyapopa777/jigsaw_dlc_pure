@@ -1,0 +1,7 @@
+{
+  "parent": "jigsaw_ponos_dlc:custom/brown_beard_cutlass",
+  "textures": {
+    "0": "jigsaw_ponos_dlc:blocks/brown_cutlass",
+    "particle": "jigsaw_ponos_dlc:items/brown_cutlass"
+  }
+}

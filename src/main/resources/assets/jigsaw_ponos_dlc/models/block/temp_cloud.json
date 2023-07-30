@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jigsaw_ponos_dlc:blocks/tempcloud",
+    "up": "jigsaw_ponos_dlc:blocks/tempcloud",
+    "north": "jigsaw_ponos_dlc:blocks/tempcloud",
+    "east": "jigsaw_ponos_dlc:blocks/tempcloud",
+    "south": "jigsaw_ponos_dlc:blocks/tempcloud",
+    "west": "jigsaw_ponos_dlc:blocks/tempcloud",
+    "particle": "jigsaw_ponos_dlc:blocks/tempcloud"
+  }
+}

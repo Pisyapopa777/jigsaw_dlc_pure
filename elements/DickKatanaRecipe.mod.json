@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.PORKCHOP"
+      },
+      {
+        "value": "Blocks.DIAMOND_BLOCK"
+      },
+      {
+        "value": "Items.PORKCHOP"
+      },
+      {
+        "value": "Items.LEATHER"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "Items.LEATHER"
+      },
+      {
+        "value": "Items.PORKCHOP"
+      },
+      {
+        "value": "Blocks.LIGHTNING_ROD"
+      },
+      {
+        "value": "Items.PORKCHOP"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Dickkatana"
+    },
+    "name": "dick_katana_recipe",
+    "namespace": "mod"
+  }
+}

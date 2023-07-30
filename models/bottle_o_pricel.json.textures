@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "3": "bottle_o_pricel"
+      },
+      "name": "default"
+    }
+  }
+}

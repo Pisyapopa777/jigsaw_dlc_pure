@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.DRIED_KELP"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "Items.DRIED_KELP"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS_PANE#15"
+      },
+      {
+        "value": "Items.IRON_HELMET"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS_PANE#15"
+      },
+      {
+        "value": "Items.DRIED_KELP"
+      },
+      {
+        "value": "Blocks.WOOL"
+      },
+      {
+        "value": "Items.DRIED_KELP"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Pyro.helmet"
+    },
+    "name": "pyro_craft",
+    "namespace": "mod"
+  }
+}

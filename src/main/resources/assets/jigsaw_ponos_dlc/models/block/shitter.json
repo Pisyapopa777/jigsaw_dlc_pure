@@ -1,0 +1,7 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "jigsaw_ponos_dlc:blocks/shitter",
+    "particle": "jigsaw_ponos_dlc:blocks/shitter"
+  }
+}

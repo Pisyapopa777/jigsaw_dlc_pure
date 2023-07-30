@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "fluid": "jigsaw_ponos_dlc:beaver_mass",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "jigsaw_ponos_dlc:ponos"
+    }
+  ]
+}

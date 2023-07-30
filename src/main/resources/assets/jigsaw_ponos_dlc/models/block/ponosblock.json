@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jigsaw_ponos_dlc:blocks/ded_inside",
+    "up": "jigsaw_ponos_dlc:blocks/ded_inside",
+    "north": "jigsaw_ponos_dlc:blocks/ded_inside",
+    "east": "jigsaw_ponos_dlc:blocks/ded_inside",
+    "south": "jigsaw_ponos_dlc:blocks/ded_inside",
+    "west": "jigsaw_ponos_dlc:blocks/ded_inside",
+    "particle": "jigsaw_ponos_dlc:blocks/ded_inside"
+  }
+}

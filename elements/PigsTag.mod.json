@@ -1,0 +1,21 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Entities",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [
+      {
+        "value": "CUSTOM:PigMinion"
+      },
+      {
+        "value": "CUSTOM:MexPig"
+      }
+    ],
+    "biomes": [],
+    "name": "pigs_tag",
+    "namespace": "forge"
+  }
+}

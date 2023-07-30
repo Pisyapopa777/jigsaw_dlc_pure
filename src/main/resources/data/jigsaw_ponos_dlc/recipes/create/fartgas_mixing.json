@@ -1,0 +1,17 @@
+  {
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "fluid": "jigsaw:ponos",
+        "nbt": {},
+        "amount": 500
+      }
+    ],
+    "results": [
+      {
+        "fluid": "jigsaw_ponos_dlc:fartgas",
+        "amount": 50
+      }
+    ],
+    "heatRequirement": "heated"
+  }

@@ -1,0 +1,8 @@
+{
+  "parent": "jigsaw_ponos_dlc:custom/teapot",
+  "textures": {
+    "all": "jigsaw_ponos_dlc:blocks/kettle",
+    "particle": "jigsaw_ponos_dlc:blocks/kettle",
+    "1": "jigsaw_ponos_dlc:blocks/kettle"
+  }
+}

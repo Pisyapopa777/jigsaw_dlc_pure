@@ -1,0 +1,21 @@
+{
+  "_fv": 39,
+  "_type": "particle",
+  "definition": {
+    "texture": "fart_cloud.png",
+    "animate": false,
+    "frameDuration": 1,
+    "width": 0.2,
+    "height": 0.2,
+    "scale": 2.1,
+    "speedFactor": 0.0,
+    "gravity": 0.0,
+    "maxAge": 90,
+    "maxAgeDiff": 15,
+    "angularVelocity": 0.0,
+    "angularAcceleration": 0.0,
+    "canCollide": true,
+    "alwaysShow": false,
+    "renderType": "OPAQUE"
+  }
+}

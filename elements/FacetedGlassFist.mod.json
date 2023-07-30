@@ -1,0 +1,37 @@
+{
+  "_fv": 39,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "faceted_glass",
+    "customModelName": "faceted_glass_v2:default",
+    "name": "Faceted Glass",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:JigsawPlus"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.6,
+    "enchantability": 50,
+    "damageVsEntity": 5.0,
+    "usageCount": 25,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.GLASS"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "FacetedGlassFistRightclickedOnBlock"
+    },
+    "onRightClickedOnBlock": {
+      "name": "FacetedGlassFistRightclickedOnBlock"
+    }
+  }
+}

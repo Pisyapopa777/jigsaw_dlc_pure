@@ -1,0 +1,7 @@
+{
+  "parent": "jigsaw_ponos_dlc:custom/slavic_totem",
+  "textures": {
+    "0": "jigsaw_ponos_dlc:blocks/slavic_totem",
+    "particle": "jigsaw_ponos_dlc:items/slavic_totem"
+  }
+}
