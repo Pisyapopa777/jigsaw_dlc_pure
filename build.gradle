@@ -62,6 +62,9 @@ repositories {
 dependencies {
     minecraft 'net.minecraftforge:forge:1.18.2-40.1.0'
     implementation fg.deobf("curse.maven:jig-660009:4433324")
+    implementation fg.deobf("curse.maven:crt-328085:4625533")
+    implementation fg.deobf("curse.maven:jei-238222:4593548")
+
 }
 
 tasks.withType(JavaCompile).configureEach {

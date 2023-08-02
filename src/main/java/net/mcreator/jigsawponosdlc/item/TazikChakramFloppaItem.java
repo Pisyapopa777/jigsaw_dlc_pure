@@ -34,7 +34,7 @@ public class TazikChakramFloppaItem extends SwordItem {
 			}
 
 			public float getAttackDamageBonus() {
-				return 6.5f;
+				return 6f;
 			}
 
 			public int getLevel() {

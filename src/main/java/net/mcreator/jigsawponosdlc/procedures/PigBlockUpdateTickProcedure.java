@@ -20,21 +20,23 @@ public class PigBlockUpdateTickProcedure {
 		double deadrandom = 0;
 		boolean ultanul = false;
 		boolean dead = false;
-		if (!(dead == true)) {
-			if (world.getLevelData().getGameRules().getBoolean(JigsawPonosDlcModGameRules.INFECTIONSPREADING) == true) {
-				rx = Mth.nextInt(new Random(), -1, 1);
-				ry = Mth.nextInt(new Random(), -1, 1);
-				rz = Mth.nextInt(new Random(), -1, 1);
-				randomus01 = Math.random();
-				infectionspeed = 3;
-				deadrandom = Mth.nextInt(new Random(), -1, 1);
-				if (randomus01 < 0.2 * infectionspeed) {
-					if ((world.getBlockState(new BlockPos(x + rx, y + ry, z + rz))).getMaterial() == net.minecraft.world.level.material.Material.STONE) {
-						world.setBlock(new BlockPos(x + rx, y + ry, z + rz), JigsawPonosDlcModBlocks.PIG_BLOCK.get().defaultBlockState(), 3);
+		if (Math.random() < 0.35) {
+			if (!(dead == true)) {
+				if (world.getLevelData().getGameRules().getBoolean(JigsawPonosDlcModGameRules.INFECTIONSPREADING) == true) {
+					rx = Mth.nextInt(new Random(), -1, 1);
+					ry = Mth.nextInt(new Random(), -1, 1);
+					rz = Mth.nextInt(new Random(), -1, 1);
+					randomus01 = Math.random();
+					infectionspeed = 3;
+					deadrandom = Mth.nextInt(new Random(), -1, 1);
+					if (randomus01 < 0.2 * infectionspeed) {
+						if ((world.getBlockState(new BlockPos(x + rx, y + ry, z + rz))).getMaterial() == net.minecraft.world.level.material.Material.STONE) {
+							world.setBlock(new BlockPos(x + rx, y + ry, z + rz), JigsawPonosDlcModBlocks.PIG_BLOCK.get().defaultBlockState(), 3);
+						}
 					}
-				}
-				if ((world.getBlockState(new BlockPos(x, y + deadrandom, z))).getBlock() == JigsawPonosDlcModBlocks.PIG_BLOCK.get()) {
-					dead = true;
+					if ((world.getBlockState(new BlockPos(x, y + deadrandom, z))).getBlock() == JigsawPonosDlcModBlocks.PIG_BLOCK.get()) {
+						dead = true;
+					}
 				}
 			}
 		}
